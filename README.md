@@ -5,10 +5,9 @@
  ## Easy
 
 1. [TwoSum](TwoSum)
+2. [ClimbingStairs](ClimbingStairs)
 
-## Medium
+ ## Medium
 
-## Hard
-
-
+ ## Hard
 
