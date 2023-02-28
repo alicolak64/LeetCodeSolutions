@@ -2,5 +2,5 @@
 
 #### [Question Link](https://leetcode.com/problems/two-sum/)
 
-#### Results
-![results](Result.png)
+#### Result
+![result](Result.png)
