@@ -9,7 +9,7 @@
 3. [ContainsDuplicate](/Easy/217-ContainsDuplicate/)
 4. [ValidAnagram](/Easy/242-ValidAnagram/)
 5. [FibonacciNumber](/Easy/509-FibonacciNumber/)
-6. [RunningSumOf1dArray](/Easy/1480-RunningSumOf1dArray/)
+6. [RunningSumOf1dArray](/Easy/1480-RunningSumof1dArray/)
 
  ## Medium
 
