@@ -13,5 +13,8 @@
 
  ## Medium
 
+1. [GroupAnagrams](/Medium/49-GroupAnagrams/)
+2. [LongestIncreasingSubsequence](/Medium/300-LongestIncreasingSubsequence/)
+
  ## Hard
 
