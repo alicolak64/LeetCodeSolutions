@@ -1,5 +1,3 @@
-package LeetCodeSolutions.Easy;
-
 import java.util.Arrays;
 
 public class RunningSumOf1DArray {
