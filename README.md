@@ -15,6 +15,7 @@
 
 1. [GroupAnagrams](/Medium/49-GroupAnagrams/)
 2. [LongestIncreasingSubsequence](/Medium/300-LongestIncreasingSubsequence/)
+3. [CoinChange](/Medium/322-CoinChange/)
 
  ## Hard
 
