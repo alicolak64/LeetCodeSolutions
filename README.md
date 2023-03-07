@@ -21,6 +21,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 
  ## Hard
 
- 1. [EditDistance](/Hard/72-EditDistance/)
+1. [EditDistance](/Hard/72-EditDistance/)
+2. [FrogJump](/Hard/403-FrogJump/)
 
 
