@@ -21,3 +21,6 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 
  ## Hard
 
+ 1. [EditDistance](/Hard/72-EditDistance/)
+
+
