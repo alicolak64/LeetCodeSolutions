@@ -10,6 +10,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 4. [ValidAnagram](/Easy/242-ValidAnagram/)
 5. [FibonacciNumber](/Easy/509-FibonacciNumber/)
 6. [RunningSumOf1dArray](/Easy/1480-RunningSumof1dArray/)
+7. [ValidPalindrome](/Easy/125-ValidPalindrome/)
 
  ## Medium
 
