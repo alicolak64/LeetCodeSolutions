@@ -23,6 +23,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 7. [ProductOfArrayExceptSelf](/Medium/238-ProductOfArrayExceptSelf/)
 8. [ValidSudoku](/Medium/36-ValidSudoku/)
 9. [LongestConsecutiveSequence](/Medium/128-LongestConsecutiveSequence/)
+10. [TwoSumII_InputArrayIsSorted](/Medium/167-TwoSumII_InputArrayIsSorted/)
 
  ## Hard
 
