@@ -31,5 +31,5 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 
 1. [EditDistance](/Hard/72-EditDistance/)
 2. [FrogJump](/Hard/403-FrogJump/)
-
+3. [TrappingRainWater](/Hard/42-TrappingRainWater/)
 
