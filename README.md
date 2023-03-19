@@ -12,6 +12,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 6. [RunningSumOf1dArray](/Easy/1480-RunningSumof1dArray/)
 7. [ValidPalindrome](/Easy/125-ValidPalindrome/)
 8. [BestTimetoBuyandSellStock](/Easy/121-BestTimetoBuyandSellStock/)
+9. [ReverseString](/Easy/344-ReverseString/)
 
  ## Medium
 
