@@ -11,6 +11,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 5. [FibonacciNumber](/Easy/509-FibonacciNumber/)
 6. [RunningSumOf1dArray](/Easy/1480-RunningSumof1dArray/)
 7. [ValidPalindrome](/Easy/125-ValidPalindrome/)
+8. [BestTimetoBuyandSellStock](/Easy/121-BestTimetoBuyandSellStock/)
 
  ## Medium
 
