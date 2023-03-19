@@ -29,6 +29,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 11. [3Sum](/Medium/15-3Sum/)
 12. [ContainerWithMostWater](/Medium/11-ContainerWithMostWater/)
 13. [SortanArray](/Medium/912-SortanArray/)
+14. [LongestSubstringWithoutRepeatingCharacters](/Medium/3-LongestSubstringWithoutRepeatingCharacters/)
 
  ## Hard
 
