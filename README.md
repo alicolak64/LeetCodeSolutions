@@ -33,6 +33,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 14. [LongestSubstringWithoutRepeatingCharacters](/Medium/3-LongestSubstringWithoutRepeatingCharacters/)
 15. [LongestRepeatingCharacterReplacement](/Medium/424-LongestRepeatingCharacterReplacement/)
 16. [PermutationinString](/Medium/567-PermutationinString/)
+17. [ReverseInteger](/Medium/7-ReverseInteger/)
 
  ## Hard
 
