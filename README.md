@@ -34,6 +34,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 15. [LongestRepeatingCharacterReplacement](/Medium/424-LongestRepeatingCharacterReplacement/)
 16. [PermutationinString](/Medium/567-PermutationinString/)
 17. [ReverseInteger](/Medium/7-ReverseInteger/)
+18. [MinStack](/Medium/155-MinStack/)
 
  ## Hard
 
