@@ -36,6 +36,8 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 17. [ReverseInteger](/Medium/7-ReverseInteger/)
 18. [MinStack](/Medium/155-MinStack/)
 19. [EvaluateReversePolishNotation](/Medium/150-EvaluateReversePolishNotation/)
+20. [GenerateParentheses](/Medium/22-GenerateParentheses/)
+
 
  ## Hard
 
