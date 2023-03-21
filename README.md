@@ -14,6 +14,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 8. [BestTimetoBuyandSellStock](/Easy/121-BestTimetoBuyandSellStock/)
 9. [ReverseString](/Easy/344-ReverseString/)
 10. [ValidParentheses](/Easy/20-ValidParentheses/)
+11. [BinarySearch](/Easy/704-BinarySearch/)
 
  ## Medium
 
