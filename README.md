@@ -50,4 +50,5 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 5. [MinimumWindowSubstring](/Hard/76-MinimumWindowSubstring/)
 6. [SlidingWindowMaximum](/Hard/239-SlidingWindowMaximum/)
 7. [LongestValidParentheses](/Hard/32-LongestValidParentheses/)
+8. [LargestRectangleinHistogram](/Hard/84-LargestRectangleinHistogram/)
 
