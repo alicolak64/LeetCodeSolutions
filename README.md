@@ -13,7 +13,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 7. [ValidPalindrome](/Easy/125-ValidPalindrome/)
 8. [BestTimetoBuyandSellStock](/Easy/121-BestTimetoBuyandSellStock/)
 9. [ReverseString](/Easy/344-ReverseString/)
-10.[ValidParentheses](/Easy/20-ValidParentheses/)
+10. [ValidParentheses](/Easy/20-ValidParentheses/)
 
  ## Medium
 
