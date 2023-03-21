@@ -47,4 +47,5 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 4. [MedianofTwoSortedArrays](/Hard/4-MedianofTwoSortedArrays/)
 5. [MinimumWindowSubstring](/Hard/76-MinimumWindowSubstring/)
 6. [SlidingWindowMaximum](/Hard/239-SlidingWindowMaximum/)
+7. [LongestValidParentheses](/Hard/32-LongestValidParentheses/)
 
