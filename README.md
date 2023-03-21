@@ -37,6 +37,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 18. [MinStack](/Medium/155-MinStack/)
 19. [EvaluateReversePolishNotation](/Medium/150-EvaluateReversePolishNotation/)
 20. [GenerateParentheses](/Medium/22-GenerateParentheses/)
+21. [DailyTemperatures](/Medium/739-DailyTemperatures/)
 
 
  ## Hard
