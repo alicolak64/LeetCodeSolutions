@@ -51,6 +51,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 27. [SearchinRotatedSortedArray](/Medium/33-SearchinRotatedSortedArray/)
 28. [TimeBasedKey-ValueStore](/Medium/981-TimeBased-KeyValueStore/)
 29. [ReorderList](/Medium/143-ReorderList/)
+30. [RemoveNthNodeFromEndofList](/Medium/19-RemoveNthNodeFromEndofList/)
 
  ## Hard
 
