@@ -45,6 +45,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 23. [AddTwoNumbers](/Medium/2-AddTwoNumbers/)
 24. [Searcha2DMatrix](/Medium/74-Searcha2DMatrix/)
 25. [KokoEatingBananas](/Medium/875-KokoEatingBananas/)
+26. [FindMinimuminRotatedSortedArray](/Medium/153-FindMinimuminRotatedSortedArray/)
 
 
  ## Hard
