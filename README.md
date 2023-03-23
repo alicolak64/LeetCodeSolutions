@@ -44,6 +44,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 22. [CarFleet](/Medium/853-CarFleet/)
 23. [AddTwoNumbers](/Medium/2-AddTwoNumbers/)
 24. [Searcha2DMatrix](/Medium/74-Searcha2DMatrix/)
+25. [KokoEatingBananas](/Medium/875-KokoEatingBananas/)
 
 
  ## Hard
