@@ -42,6 +42,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 20. [GenerateParentheses](/Medium/22-GenerateParentheses/)
 21. [DailyTemperatures](/Medium/739-DailyTemperatures/)
 22. [CarFleet](/Medium/853-CarFleet/)
+23. [AddTwoNumbers](/Medium/2-AddTwoNumbers/)
 
 
  ## Hard
