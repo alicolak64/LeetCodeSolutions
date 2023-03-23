@@ -17,6 +17,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 11. [BinarySearch](/Easy/704-BinarySearch/)
 12. [RemoveDuplicatesfromSortedArray](/Easy/26-RemoveDuplicatesfromSortedArray/)
 13. [RemoveElement](/Easy/27-RemoveElement/)
+14. [ReverseLinkedList](/Easy/206-ReverseLinkedList/)
 
  ## Medium
 
