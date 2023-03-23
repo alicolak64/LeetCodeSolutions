@@ -54,6 +54,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 29. [ReorderList](/Medium/143-ReorderList/)
 30. [RemoveNthNodeFromEndofList](/Medium/19-RemoveNthNodeFromEndofList/)
 31. [CopyListwithRandomPointer](/Medium/138-CopyListwithRandomPointer/)
+32. [FindtheDuplicateNumber](/Medium/287-FindtheDuplicateNumber/)
 
  ## Hard
 
