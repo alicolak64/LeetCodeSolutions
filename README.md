@@ -22,6 +22,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 16. [LinkedListCycle](/Easy/141-LinkedListCycle/)
 17. [InvertBinaryTree](/Easy/226-InvertBinaryTree/)
 18. [MaximumDepthofBinaryTree](/Easy/104-MaximumDepthofBinaryTree/)
+19. [DiameterofBinaryTree](/Easy/543-DiameterofBinaryTree/)
 
  ## Medium
 
