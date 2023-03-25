@@ -1,5 +1,3 @@
-package LeetCodeSolutions.Medium;
-
 public class ValidateBinarySearchTree {
 
     /*
