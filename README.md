@@ -78,6 +78,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 46. [SerializeanDeserialBST](/Medium/449-SerializeandDeserializeBST/)
 47 .[ConstructBinaryTreefromPreorderandPostorderTraversal](/Medium/889-ConstructBinaryTreefromPreorderandPostorderTraversal/)
 48. [ConstructBinarySearchTreefromPreorderTraversal](/Medium/1008-ConstructBinarySearchTreefromPreorderTraversal/)
+49. [CreateBinaryTreeFromDescriptions](/Medium/2196-CreateBinaryTreeFromDescription/)
 
  ## Hard
 
