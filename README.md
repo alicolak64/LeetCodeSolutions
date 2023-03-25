@@ -66,6 +66,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 35. [BinaryTreeLevelOrderTraversal](/Medium/102-BinaryTreeLevelOrderTraversal/)
 36. [BinaryTreeRightSideView](/Medium/199-BinaryTreeRightSideView/)
 37. [CountGoodNodesinBinaryTree](/Medium/1448-CountGoodNodesinBinaryTree/)
+38. [ValidateBinarySearchTree](/Medium/98-ValidateBinarySearchTree/)
 
  ## Hard
 
