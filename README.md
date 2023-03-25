@@ -71,6 +71,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 40. [ConstructBinaryTreefromPreorderandInorderTraversal](/Medium/105-ConstructBinaryTreefromPreorderandInorderTraversal/)
 41. [ImplementTrie(PrefixTree)](/Medium/208-ImplementTrie(PrefixTree)/)
 42. [DesignAddandSearchWordsDataStructure](/Medium/211-DesignAddandSearchWordsDataStructure/)
+43. [ConstructBinaryTreefromInorderandPostorderTraversal](/Medium/106-ConstructBinaryTreefromInorderandPostorderTraversal/)
 
  ## Hard
 
