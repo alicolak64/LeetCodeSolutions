@@ -75,6 +75,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 43. [ConstructBinaryTreefromInorderandPostorderTraversal](/Medium/106-ConstructBinaryTreefromInorderandPostorderTraversal/)
 44. [WordSearch](/Medium/79-WordSearch/)
 45. [WordBreak](/Medium/139-WordBreak/)
+46. [SerializeanDeserialBST](/Medium/449-SerializeandDeserializeBST/)
 
  ## Hard
 
