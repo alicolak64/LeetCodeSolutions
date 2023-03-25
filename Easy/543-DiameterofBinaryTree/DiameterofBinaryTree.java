@@ -1,5 +1,3 @@
-package LeetCodeSolutions.Easy;
-
 public class DiameterofBinaryTree {
 
     /*
