@@ -65,6 +65,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 34. [LowestCommonAncestorofaBinarySearchTree](/Medium/235-LowestCommonAncestorofaBinarySearchTree/)
 35. [BinaryTreeLevelOrderTraversal](/Medium/102-BinaryTreeLevelOrderTraversal/)
 36. [BinaryTreeRightSideView](/Medium/199-BinaryTreeRightSideView/)
+37. [CountGoodNodesinBinaryTree](/Medium/1448-CountGoodNodesinBinaryTree/)
 
  ## Hard
 
