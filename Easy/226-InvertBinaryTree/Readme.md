@@ -1,6 +1,6 @@
 # Invert Binary Tree
 
-#### [Question Link](https://leetcode.com/invert-binary-tree/)
+#### [Question Link](https://leetcode.com/problems/invert-binary-tree/)
 
 #### Result
 ![result](Result.png)
