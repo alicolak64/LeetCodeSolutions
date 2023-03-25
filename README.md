@@ -25,6 +25,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 19. [DiameterofBinaryTree](/Easy/543-DiameterofBinaryTree/)
 20. [BalancedBinaryTree](/Easy/110-BalancedBinaryTree/)
 21. [SameTree](/Easy/100-SameTree/)
+22. [SubtreeofAnotherTree](/Easy/572-SubtreeofAnotherTree/)
 
  ## Medium
 
