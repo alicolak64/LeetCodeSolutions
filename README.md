@@ -26,6 +26,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 20. [BalancedBinaryTree](/Easy/110-BalancedBinaryTree/)
 21. [SameTree](/Easy/100-SameTree/)
 22. [SubtreeofAnotherTree](/Easy/572-SubtreeofAnotherTree/)
+23. [ConstructStringfromBinaryTree](/Easy/606-ConstructStringfromBinaryTree/)
 
  ## Medium
 
