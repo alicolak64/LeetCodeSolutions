@@ -20,6 +20,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 14. [ReverseLinkedList](/Easy/206-ReverseLinkedList/)
 15. [MergeTwoSortedLists](/Easy/21-MergeTwoSortedLists/)
 16. [LinkedListCycle](/Easy/141-LinkedListCycle/)
+17. [InvertBinaryTree](/Easy/226-InvertBinaryTree/)
 
  ## Medium
 
