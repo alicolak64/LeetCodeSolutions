@@ -48,6 +48,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 * 105 - [ Construct Binary Tree from Preorder and Inorder Traversal ](/Medium/105-ConstructBinaryTreefromPreorderandInorderTraversal/)
 * 106 - [ Construct Binary Tree from Inorder and Postorder Traversal ](/Medium/106-ConstructBinaryTreefromInorderandPostorderTraversal/)
 * 128 - [ Longest Consecutive Sequence ](/Medium/128-LongestConsecutiveSequence/)
+* 138 - [ Copy List with Random Pointer ](/Medium/138-CopyListwithRandomPointer/)
 * 139 - [ Word Break ](/Medium/139-WordBreak/)
 * 143 - [ Reorder List](/Medium/143-ReorderList/)
 * 146 - [ LRU Cache ](/Medium/146-LRUCache/)
