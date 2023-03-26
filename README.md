@@ -42,7 +42,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 * 49 - [ Group Anagrams ](/Medium/49-GroupAnagrams/)
 * 74 - [ Search a 2D Matrix ](/Medium/74-Searcha2DMatrix/)
 * 79 - [ Word Search ](/Medium/79-WordSearch/)
-*  - [ V98alidate Binary Search Tree ](/Medium/98-ValidateBinarySearchTree/)
+* 98 - [ Validate Binary Search Tree ](/Medium/98-ValidateBinarySearchTree/)
 * 102 - [ Binary Tree Level Order Traversal ](/Medium/102-BinaryTreeLevelOrderTraversal/)
 * 103 - [ Binary Tree Zigzag Level Order Traversal ](/Medium/103-BinaryTreeZigzagLevelOrderTraversal/)
 * 105 - [ Construct Binary Tree from Preorder and Inorder Traversal ](/Medium/105-ConstructBinaryTreefromPreorderandInorderTraversal/)
