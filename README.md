@@ -27,6 +27,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 * 606 - [ Construct String from Binary Tree ](/Easy/606-ConstructStringfromBinaryTree/)
 * 703 - [ K th Largest Element in a Stream ](/Easy/703-KthLargestElementinaStream/)
 * 704 - [ Binary Search ](/Easy/704-BinarySearch/)
+* 1046 - [ Last Stone Weight ](/Easy/1046-LastStoneWeight/)
 * 1480 - [ Running Sum Of 1d Array ](/Easy/1480-RunningSumof1dArray/)
 
  ## Medium
