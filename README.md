@@ -47,6 +47,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 36 | Valid Sudoku | [Java](/Medium/36-ValidSudoku/)|
 | 49 | Group Anagrams | [Java](/Medium/49-GroupAnagrams/)|
 | 74 | Search a 2D Matrix | [Java](/Medium/74-Searcha2DMatrix/)|
+| 78 | Subsets | [Java](/Medium/78-Subsets/)|
 | 79 | Word Search | [Java](/Medium/79-WordSearch/)|
 | 98 | Validate Binary Search Tree | [Java](/Medium/98-ValidateBinarySearchTree/)|
 | 102 | Binary Tree Level Order Traversal | [Java](/Medium/102-BinaryTreeLevelOrderTraversal/)|
