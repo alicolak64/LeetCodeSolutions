@@ -84,7 +84,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 889 | Construct Binary Tree from Preorder and Postorder Traversal | [Java](/Medium/889-ConstructBinaryTreefromPreorderandPostorderTraversal/)|
 | 912 | Sort an Array | [Java](/Medium/912-SortanArray/)|
 | 973 | K Closest Points to Origin | [Java](/Medium/973-KClosestPointstoOrigin/)|
-| 981 | Time Based Key - Value Store | [Java](/Medium/981-TimeBased-KeyValueStore/)|
+| 981 | Time Based Key - Value Store | [Java](/Medium/981-TimeBasedKey-ValueStore/)|
 | 1008 | Construct Binary Search Tree from Preorder Traversal | [Java](/Medium/1008-ConstructBinarySearchTreefromPreorderTraversal/)|
 | 1029 | Two City Scheduling | [Java](/Medium/1029-TwoCityScheduling/)|
 | 1143 | Longest Common Subsequence | [Java](/Medium/1143-LongestCommonSubsequence/)|
