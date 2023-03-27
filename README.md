@@ -68,7 +68,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 215 | K th Largest Element in an Array | [Java](/Medium/215-KthLargestElementinanArray/)|
 | 230 | K th Smallest Element in a BST | [Java](/Medium/230-KthSmallestElementinaBST/)|
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Java](/Medium/235-LowestCommonAncestorofaBinarySearchTree/)|
-| 238 | Product Of Array Except Self | [Java](/Medium/238-ProductOfArrayExceptSelf/)|
+| 238 | Product Of Array Except Self | [Java](/Medium/238-ProductofArrayExceptSelf/)|
 | 287 | Find the Duplicate Number | [Java](/Medium/287-FindtheDuplicateNumber/)|
 | 300 | Longest Increasing Subsequence | [Java](/Medium/300-LongestIncreasingSubsequence/)|
 | 322 | Coin Change | [Java](/Medium/322-CoinChange/)|
