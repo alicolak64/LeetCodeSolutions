@@ -69,6 +69,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 * 300 - [ Longest Increasing Subsequence ](/Medium/300-LongestIncreasingSubsequence/)
 * 322 - [ Coin Change ](/Medium/322-CoinChange/)
 * 347 - [ Top K Frequent Elements ](/Medium/347-TopKFrequentElements/)
+* 355 - [ Design Twitter ](/Medium/355-DesignTwitter/)
 * 424 - [ Longest Repeating Character Replacement ](/Medium/424-LongestRepeatingCharacterReplacement/)
 * 449 - [ Serialize and Deserial BST ](/Medium/449-SerializeandDeserializeBST/)
 * 567 - [ Permutation in String ](/Medium/567-PermutationinString/)
