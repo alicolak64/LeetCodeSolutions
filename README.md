@@ -100,5 +100,6 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 * 124 - [ Binary Tree Maximum Path Sum ](/Hard/124-BinaryTreeMaximumPathSum/)
 * 212 - [ Word Search II ](/Hard/212-WordSearchII/)
 * 239 - [ Sliding Window Maximum ](/Hard/239-SlidingWindowMaximum/)
+* 295 - [ Find Median from Data Stream ](/Hard/295-FindMedianfromDataStream/)
 * 297 - [ Serialize and Deserialize Binary Tree ](/Hard/297-SerializeandDeserializeBinaryTree/)
 * 403 - [ Frog Jump ](/Hard/403-FrogJump/)
