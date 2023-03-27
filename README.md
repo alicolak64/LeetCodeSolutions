@@ -63,7 +63,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 155 | Min Stack | [Java](/Medium/155-MinStack/)|
 | 167 | Two Sum II - Input Array Is Sorted | [Java](/Medium/167-TwoSumII_InputArrayIsSorted/)|
 | 199 | Binary Tree Right Side View | [Java](/Medium/199-BinaryTreeRightSideView/)|
-| 208 | Implement Trie (Prefix Tree) | [Java](/Medium/208-ImplementTrie(PrefixTree)/)|
+| 208 | Implement Trie (Prefix Tree) | [Java](/Medium/208-ImplementTrie(Prefix%20Tree)/)|
 | 211 | Design Add and Search Words Data Structure | [Java](/Medium/211-DesignAddandSearchWordsDataStructure/)|
 | 215 | K th Largest Element in an Array | [Java](/Medium/215-KthLargestElementinanArray/)|
 | 230 | K th Smallest Element in a BST | [Java](/Medium/230-KthSmallestElementinaBST/)|
