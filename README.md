@@ -45,6 +45,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 22 | Generate Parentheses | [Java](/Medium/22-GenerateParentheses/)|
 | 33 | Search in Rotated Sorted Array | [Java](/Medium/33-SearchinRotatedSortedArray/)|
 | 36 | Valid Sudoku | [Java](/Medium/36-ValidSudoku/)|
+| 46 | Permutations | [Java](/Medium/46-Permutations/)|
 | 49 | Group Anagrams | [Java](/Medium/49-GroupAnagrams/)|
 | 74 | Search a 2D Matrix | [Java](/Medium/74-Searcha2DMatrix/)|
 | 78 | Subsets | [Java](/Medium/78-Subsets/)|
