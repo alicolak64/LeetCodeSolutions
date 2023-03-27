@@ -39,6 +39,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 2 | Add Two Numbers | [Java](/Medium/2-AddTwoNumbers/)|
 | 3 | Longest Substring Without Repeating Characters | [Java](/Medium/3-LongestSubstringWithoutRepeatingCharacters/)|
 | 7 | Reverse Integer | [Java](/Medium/7-ReverseInteger/)|
+| 9 | Palindrome Number | [Java](/Medium/9-PalindromeNumber/)|
 | 11 | Container With Most Water | [Java](/Medium/11-ContainerWithMostWater/)|
 | 15 | 3Sum | [Java](/Medium/15-3Sum/)|
 | 19 | Remove N th Node From End of List | [Java](/Medium/19-RemoveNthNodeFromEndofList/)|
