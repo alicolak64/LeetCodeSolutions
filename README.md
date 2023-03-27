@@ -76,6 +76,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 * 875 - [ Koko Eating Bananas ](/Medium/875-KokoEatingBananas/)
 * 889 - [ Construct Binary Tree from Preorder and Postorder Traversal ](/Medium/889-ConstructBinaryTreefromPreorderandPostorderTraversal/)
 * 912 - [ Sort an Array ](/Medium/912-SortanArray/)
+* 973 - [ K Closest Points to Origin ](/Medium/973-KClosestPointstoOrigin/)
 * 981 - [ Time Based Key - Value Store ](/Medium/981-TimeBased-KeyValueStore/)
 * 1008 - [ Construct Binary Search Tree from Preorder Traversal ](/Medium/1008-ConstructBinarySearchTreefromPreorderTraversal/)
 * 1029 - [ Two City Scheduling ](/Medium/1029-TwoCityScheduling/)
