@@ -72,6 +72,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 * 424 - [ Longest Repeating Character Replacement ](/Medium/424-LongestRepeatingCharacterReplacement/)
 * 449 - [ Serialize and Deserial BST ](/Medium/449-SerializeandDeserializeBST/)
 * 567 - [ Permutation in String ](/Medium/567-PermutationinString/)
+* 621 - [ Task Scheduler ](/Medium/621-TaskScheduler/)
 * 739 - [ Daily Temperatures ](/Medium/739-DailyTemperatures/)
 * 853 - [ Car Fleet ](/Medium/853-CarFleet/)
 * 875 - [ Koko Eating Bananas ](/Medium/875-KokoEatingBananas/)
