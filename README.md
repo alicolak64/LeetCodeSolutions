@@ -102,7 +102,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 42 | Trapping Rain Water | [Java](/Hard/42-TrappingRainWater/)|
 | 72 | Edit Distance | [Java](/Hard/72-EditDistance/)|
 | 76 | Minimum Window Substring | [Java](/Hard/76-MinimumWindowSubstring/)|
-| 84 | Largest Rectangle in Histogram | [Java](/Hard/84-LargestRectangleinHistogram/)|
+| 84 | Largest Rectangle in Histogram | [Java](/Hard/84-LargestRectanglenHistogram/)|
 | 124 | Binary Tree Maximum Path Sum | [Java](/Hard/124-BinaryTreeMaximumPathSum/)|
 | 212 | Word Search II | [Java](/Hard/212-WordSearchII/)|
 | 239 | Sliding Window Maximum | [Java](/Hard/239-SlidingWindowMaximum/)|
