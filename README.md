@@ -14,6 +14,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 21 | Merge Two Sorted Lists | [Java](/Easy/21-MergeTwoSortedLists/)|
 | 26 | Remove Duplicates from Sorted Array | [Java](/Easy/26-RemoveDuplicatesfromSortedArray/)|
 | 27 | Remove Element | [Java](/Easy/27-RemoveElement/)|
+| 28 | Find the Index of the First Occurrence in a String | [Java](/Easy/28-FindtheIndexoftheFirstOccurrenceinaString/)|
 | 70 | Climbing Stairs | [Java](/Easy/70-ClimbingStairs/)|
 | 100 | Same Tree | [Java](/Easy/100-SameTree/)|
 | 104 | Maximum Depth of Binary Tree | [Java](/Easy/104-MaximumDepthofBinaryTree/)|
