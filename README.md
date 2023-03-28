@@ -18,6 +18,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 35 | Search Insert Position | [Java](/Easy/35-SearchInsertPosition/)|
 | 58 | Length of Last Word | [Java](/Easy/58-LengthofLastWord/)|
 | 66 | Plus One | [Java](/Easy/66-PlusOne/)|
+| 67 | Add Binary | [Java](/Easy/67-AddBinary/)|
 | 70 | Climbing Stairs | [Java](/Easy/70-ClimbingStairs/)|
 | 100 | Same Tree | [Java](/Easy/100-SameTree/)|
 | 104 | Maximum Depth of Binary Tree | [Java](/Easy/104-MaximumDepthofBinaryTree/)|
