@@ -22,6 +22,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 69 | Sqrt(x) | [Java](/Easy/69-Sqrt(x)/)|
 | 70 | Climbing Stairs | [Java](/Easy/70-ClimbingStairs/)|
 | 100 | Same Tree | [Java](/Easy/100-SameTree/)|
+| 101 | Symmetric Tree | [Java](/Easy/101-SymmetricTree/)|
 | 104 | Maximum Depth of Binary Tree | [Java](/Easy/104-MaximumDepthofBinaryTree/)|
 | 110 | Balanced Binary Tree | [Java](/Easy/110-BalancedBinaryTree/)|
 | 121 | Best Time to Buy and Sell Stock | [Java](/Easy/121-BestTimetoBuyandSellStock/)|
