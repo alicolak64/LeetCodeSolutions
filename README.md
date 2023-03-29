@@ -22,6 +22,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 69 | Sqrt(x) | [Java](/Easy/69-Sqrt(x)/)|
 | 70 | Climbing Stairs | [Java](/Easy/70-ClimbingStairs/)|
 | 83 | Remove Duplicates from Sorted List | [Java](/Easy/83-RemoveDuplicatesfromSortedList/)|
+| 88 | Merge Sorted Array | [Java](/Easy/88-MergeSortedArray/)|
 | 100 | Same Tree | [Java](/Easy/100-SameTree/)|
 | 101 | Symmetric Tree | [Java](/Easy/101-SymmetricTree/)|
 | 104 | Maximum Depth of Binary Tree | [Java](/Easy/104-MaximumDepthofBinaryTree/)|
