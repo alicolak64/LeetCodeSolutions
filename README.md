@@ -35,6 +35,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 119 | Pascal's Triangle II | [Java](/Easy/119-Pascal'sTriangleII/)|
 | 121 | Best Time to Buy and Sell Stock | [Java](/Easy/121-BestTimetoBuyandSellStock/)|
 | 125 | Valid Palindrome | [Java](/Easy/125-ValidPalindrome/)|
+| 136 | Single Number | [Java](/Easy/136-SingleNumber/)|
 | 141 | Linked List Cycle | [Java](/Easy/141-LinkedListCycle/)|
 | 206 | Reverse Linked List | [Java](/Easy/206-ReverseLinkedList/)|
 | 217 | Contains Duplicate | [Java](/Easy/217-ContainsDuplicate/)|
