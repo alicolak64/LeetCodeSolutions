@@ -32,6 +32,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 111 | Minimum Depth of Binary Tree | [Java](/Easy/111-MinimumDepthofBinaryTree/)|
 | 112 | Path Sum | [Java](/Easy/112-PathSum/)|
 | 118 | Pascal's Triangle | [Java](/Easy/118-Pascal'sTriangle/)|
+| 119 | Pascal's Triangle II | [Java](/Easy/119-Pascal'sTriangleII/)|
 | 121 | Best Time to Buy and Sell Stock | [Java](/Easy/121-BestTimetoBuyandSellStock/)|
 | 125 | Valid Palindrome | [Java](/Easy/125-ValidPalindrome/)|
 | 141 | Linked List Cycle | [Java](/Easy/141-LinkedListCycle/)|
