@@ -37,6 +37,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 125 | Valid Palindrome | [Java](/Easy/125-ValidPalindrome/)|
 | 136 | Single Number | [Java](/Easy/136-SingleNumber/)|
 | 141 | Linked List Cycle | [Java](/Easy/141-LinkedListCycle/)|
+| 144 | Binary Tree Preorder Traversal | [Java](/Easy/144-BinaryTreePreorderTraversal/)|
 | 206 | Reverse Linked List | [Java](/Easy/206-ReverseLinkedList/)|
 | 217 | Contains Duplicate | [Java](/Easy/217-ContainsDuplicate/)|
 | 226 | Invert Binary Tree | [Java](/Easy/226-InvertBinaryTree/)|
