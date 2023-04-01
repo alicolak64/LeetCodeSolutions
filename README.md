@@ -130,6 +130,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 25 | Reverse Nodes in k-Group | [Java](/Hard/25-ReverseNodesink-Group/)|
 | 32 | Longest Valid Parentheses | [Java](/Hard/32-LongestValidParentheses/)|
 | 42 | Trapping Rain Water | [Java](/Hard/42-TrappingRainWater/)|
+| 51 | N-Queens | [Java](/Hard/51-N-Queens/)|
 | 72 | Edit Distance | [Java](/Hard/72-EditDistance/)|
 | 76 | Minimum Window Substring | [Java](/Hard/76-MinimumWindowSubstring/)|
 | 84 | Largest Rectangle in Histogram | [Java](/Hard/84-LargestRectanglenHistogram/)|
