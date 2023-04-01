@@ -43,6 +43,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 168 | Excel Sheet Column Title | [Java](/Easy/168-ExcelSheetColumnTitle/)|
 | 169 | Majority Element | [Java](/Easy/169-MajorityElement/)|
 | 171 | Excel Sheet Column Number | [Java](/Easy/171-ExcelSheetColumnNumber/)|
+| 175 | Combine Two Tables | [MySQL](/Easy/175-CombineTwoTables/)|
 | 206 | Reverse Linked List | [Java](/Easy/206-ReverseLinkedList/)|
 | 217 | Contains Duplicate | [Java](/Easy/217-ContainsDuplicate/)|
 | 226 | Invert Binary Tree | [Java](/Easy/226-InvertBinaryTree/)|
