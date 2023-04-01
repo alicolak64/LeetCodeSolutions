@@ -41,6 +41,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 145 | Binary Tree Postorder Traversal | [Java](/Easy/145-BinaryTreePostorderTraversal/)|
 | 160 | Intersection of Two Linked Lists | [Java](/Easy/160-IntersectionofTwoLinkedLists/)|
 | 168 | Excel Sheet Column Title | [Java](/Easy/168-ExcelSheetColumnTitle/)|
+| 169 | Majority Element | [Java](/Easy/169-MajorityElement/)|
 | 206 | Reverse Linked List | [Java](/Easy/206-ReverseLinkedList/)|
 | 217 | Contains Duplicate | [Java](/Easy/217-ContainsDuplicate/)|
 | 226 | Invert Binary Tree | [Java](/Easy/226-InvertBinaryTree/)|
