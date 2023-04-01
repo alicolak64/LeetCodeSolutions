@@ -69,6 +69,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 33 | Search in Rotated Sorted Array | [Java](/Medium/33-SearchinRotatedSortedArray/)|
 | 36 | Valid Sudoku | [Java](/Medium/36-ValidSudoku/)|
 | 39 | Combination Sum | [Java](/Medium/39-CombinationSum/)|
+| 40 | Combination Sum II | [Java](/Medium/40-CombinationSumII/)|
 | 46 | Permutations | [Java](/Medium/46-Permutations/)|
 | 49 | Group Anagrams | [Java](/Medium/49-GroupAnagrams/)|
 | 74 | Search a 2D Matrix | [Java](/Medium/74-Searcha2DMatrix/)|
