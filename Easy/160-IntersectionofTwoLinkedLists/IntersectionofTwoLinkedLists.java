@@ -48,6 +48,8 @@ public class IntersectionofTwoLinkedLists {
 
      */
 
+    // Link : https://leetcode.com/problems/intersection-of-two-linked-lists/
+
     public static void main(String[] args) {
 
         ListNode headA = new ListNode(4);
