@@ -47,6 +47,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 181 | Employees Earning More Than Their Managers | [MySQL](/Easy/181-EmployeesEarningMoreThanTheirManagers/)|
 | 183 | Customers Who Never Order | [MySQL](/Easy/183-CustomersWhoNeverOrder/)|
 | 190 | Reverse Bits | [Java](/Easy/190-ReverseBits/)|
+| 191 | Number of 1 Bits | [Java](/Easy/191-Numberof1Bits/)|
 | 182 | Duplicate Emails | [MySQL](/Easy/182-DuplicateEmails/)|
 | 206 | Reverse Linked List | [Java](/Easy/206-ReverseLinkedList/)|
 | 217 | Contains Duplicate | [Java](/Easy/217-ContainsDuplicate/)|
