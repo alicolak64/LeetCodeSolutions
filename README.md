@@ -45,6 +45,7 @@ My LeetCode Profile: [https://leetcode.com/alicolak_64/](https://leetcode.com/al
 | 171 | Excel Sheet Column Number | [Java](/Easy/171-ExcelSheetColumnNumber/)|
 | 175 | Combine Two Tables | [MySQL](/Easy/175-CombineTwoTables/)|
 | 181 | Employees Earning More Than Their Managers | [MySQL](/Easy/181-EmployeesEarningMoreThanTheirManagers/)|
+| 183 | Customers Who Never Order | [MySQL](/Easy/183-CustomersWhoNeverOrder/)|
 | 182 | Duplicate Emails | [MySQL](/Easy/182-DuplicateEmails/)|
 | 206 | Reverse Linked List | [Java](/Easy/206-ReverseLinkedList/)|
 | 217 | Contains Duplicate | [Java](/Easy/217-ContainsDuplicate/)|
